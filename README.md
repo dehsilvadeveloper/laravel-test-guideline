@@ -20,3 +20,7 @@ Guideline for writing tests in a Laravel Project
 
 ### Integration Tests
 - [Integration](./en/Integration/Integration.md)
+
+# References
+
+Forked from Github Repo: framgia/laravel-test-guideline
